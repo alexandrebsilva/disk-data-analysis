@@ -1,6 +1,4 @@
 module.exports = function segment(x, space) {
-  // Write your code here
-
   let lastSegmentIdx = 0;
 
   let segments = [];
@@ -9,8 +7,6 @@ module.exports = function segment(x, space) {
     segments.push(space.slice(lastSegmentIdx, lastSegmentIdx + x));
     lastSegmentIdx++;
   }
-
-  console.log(segments);
 
   const minMemories = segments.map((item) => {
     item.sort();
@@ -23,5 +19,3 @@ module.exports = function segment(x, space) {
 
   return minMemories[0];
 };
-
-// segment(3, [2, 5, 4, 6, 8]);

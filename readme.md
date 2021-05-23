@@ -1,12 +1,14 @@
 # Disk Space Analysis
 
-This is the solution of a Hacker Rank challhenge called Disk Space Analysis
+This is the solution of a Hacker Rank challhenge called **Disk Space Analysis**
 
 ## Usage
 
-The examples of usage can be found on the test/segment.test.js
+The examples of usage can be found on **test/segment.test.js**
 
 The tests were based some samples from the challenge
+
+It will also show the test coverage of lines
 
 ## Prerequisites
 

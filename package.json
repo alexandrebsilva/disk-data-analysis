@@ -1,17 +1,20 @@
 {
   "name": "disk-data-analysis",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "This is the solution of a Hacker Rank challhenge",
+  "main": "src/index.js",
   "scripts": {
-    "test": "jest test/segment.test.js"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alexandrebsilva/disk-data-analysis.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "challenge",
+    "hackerRank"
+  ],
+  "author": "Alexandre Borges",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/alexandrebsilva/disk-data-analysis/issues"
