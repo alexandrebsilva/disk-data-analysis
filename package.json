@@ -1,0 +1,23 @@
+{
+  "name": "disk-data-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test/segment.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrebsilva/disk-data-analysis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrebsilva/disk-data-analysis/issues"
+  },
+  "homepage": "https://github.com/alexandrebsilva/disk-data-analysis#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
